@@ -1,0 +1,14 @@
+<odoo>
+    <!-- Define the root menu item for Shelf Space Management -->
+    <menuitem id="menu_shelf_space_root" name="Shelf Space Management" sequence="10"/>
+
+    <!-- Action to open the shelf locations view -->
+    <record id="action_shelf_locations" model="ir.actions.act_window">
+        <field name="name">Shelf Locations</field>
+        <field name="res_model">shelf.location</field>
+        <field name="view_mode">tree,form</field>
+    </record>
+
+    <!-- Menu item for Shelf Locations under the root menu -->
+    <menuitem id="menu_shelf_locations" name="Shelf Locations" parent="menu_shelf_space_root" action="action_shelf_locations"/>
+</odoo>

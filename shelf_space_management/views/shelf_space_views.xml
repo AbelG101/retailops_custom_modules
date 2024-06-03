@@ -1,0 +1,54 @@
+<odoo>
+    <!-- Shelf Location Form View -->
+    <record id="view_shelf_location_form" model="ir.ui.view">
+        <field name="name">shelf.location.form</field>
+        <field name="model">shelf.location</field>
+        <field name="arch" type="xml">
+            <form string="Shelf Location">
+                <sheet>
+                    <group>
+                        <field name="name"/>
+                        <field name="description"/>
+                        <field name="capacity" string="Capacity (sq ft)"/>
+                    </group>
+                    <group string="Products on Shelf">
+                        <field name="product_template_ids">
+                            <tree string="Products">
+                                <field name="name"/>
+                                <field name="shelf_quantity"/>
+                            </tree>
+                        </field>
+                    </group>
+                </sheet>
+            </form>
+        </field>
+    </record>
+
+    <!-- Shelf Location Tree View -->
+    <record id="view_shelf_location_tree" model="ir.ui.view">
+        <field name="name">shelf.location.tree</field>
+        <field name="model">shelf.location</field>
+        <field name="arch" type="xml">
+            <tree string="Shelf Locations">
+                <field name="name"/>
+                <field name="description"/>
+                <field name="capacity" string="Capacity (sq ft)"/>
+            </tree>
+        </field>
+    </record>
+
+    <!-- Extend Product Template Form View -->
+    <record id="view_product_form_shelf_space" model="ir.ui.view">
+        <field name="name">product.form.shelf.space</field>
+        <field name="model">product.template</field>
+        <field name="inherit_id" ref="product.product_template_only_form_view"/>
+        <field name="arch" type="xml">
+            <xpath expr="//sheet" position="inside">
+                <group string="Shelf Space Management">
+                    <field name="shelf_location_id"/>
+                    <field name="shelf_quantity"/>
+                </group>
+            </xpath>
+        </field>
+    </record>
+</odoo>

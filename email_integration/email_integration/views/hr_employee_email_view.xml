@@ -1,0 +1,18 @@
+<odoo>
+    <data>
+        <record id="view_email_model_form" model="ir.ui.view">
+            <field name="name">email.model.form</field>
+            <field name="model">hr.employee</field>
+            <field name="inherit_id" ref="hr.view_employee_form"/>
+            <field name="arch" type="xml">
+                <xpath expr="//form/sheet" position="inside">
+                    <group>
+                        <field name="email_subject"/>
+                        <field name="email_body"/>
+                    </group>
+                    <button name="action_send_mail" type="object" string="Send Email" class="oe_highlight"/>
+                </xpath>
+            </field>
+        </record>
+    </data>
+</odoo>

@@ -1,37 +1,6 @@
 <a name="readme-top"></a>
-
-<!--
-!!! IMPORTANT !!!
-This README is an example of how you could professionally present your codebase. 
-Writing documentation is a crucial part of your work as a professional software developer and cannot be ignored. 
-
-You should modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
-
-For more information on the importance of a professional README for your repositories: https://github.com/microverseinc/curriculum-transversal-skills/blob/main/documentation/articles/readme_best_practices.md
--->
-
 <div align="center">
-
   <h3><b>RetailOps custom modules</b></h3>
-
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -60,48 +29,61 @@ For more information on the importance of a professional README for your reposit
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [supermarket management system] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
+> Our project, the Supermarket Management System, aims to revolutionize supermarket operations by optimizing inventory control, enhancing sales performance, and improving the overall shopping experience. Designed for enterprise-level usage, it integrates inventory management, sales tracking, purchasing, and customer service functions across multiple departments to streamline operations and boost customer satisfaction.
 
-**[your_project__name]** is a...
-
+**[Supermarket Management System]** is  designed to revolutionize the way supermarkets operate by offering a comprehensive solution for managing inventory, tracking sales, handling purchasing processes, and enhancing customer service. With a focus on seamless integration across multiple departments, this system is tailored for enterprise-level usage, ensuring efficiency and effectiveness in supermarket operations.
+# Project Scope:
+- The supermarket management system we are proposing aims to streamline operations and manage various aspects of a supermarket, including:
+  1. Inventory management
+  2. Sales tracking
+  3. Purchasing
+  4. Customer service
+# Vision::
+- Our vision is to revolutionize supermarket management by providing a comprehensive and integrated system that enhances efficiency, transparency, and customer satisfaction.
+# Goal:
+ - The goal of our project is to develop a robust supermarket management system that simplifies daily operations, optimizes inventory control, boosts sales performance, and elevates the overall shopping experience for both customers and staff.
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
 > Describe the tech stack and include only the relevant sections that apply to your project.
-
 <details>
-  <summary>Client</summary>
+  <summary>Client Side</summary>
   <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="https://www.w3.org/TR/html52/">HTML</a></li>
+    <li><a href="https://www.w3.org/Style/CSS/">CSS</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Server Side</summary>
   <ul>
-    <li><a href="https://expressjs.com/">Express.js</a></li>
+    <li><a href="https://www.python.org/">Python</a></li>
   </ul>
 </details>
 
 <details>
-<summary>Database</summary>
+  <summary>Database Side</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
 
+
+
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
+> key features of the application.
 
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[Inventory Management:Efficiently track and manage inventory levels to prevent stockouts and overstocking. ]**
+- **[Sales Tracking:Monitor sales performance in real-time to make informed business decisions. ]**
+- **[Purchasing:Streamline the purchasing process to ensure timely restocking of products. ]**
+- **[Customer Service:Enhance customer satisfaction through improved service and support. ]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,9 +91,9 @@ For more information on the importance of a professional README for your reposit
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
+> odoo demo .
 
-- [Live Demo Link](https://google.com)
+- [Live Demo Link](http://localhost:8069/web)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

@@ -52,16 +52,14 @@
 <details>
   <summary>Client Side</summary>
   <ul>
-    <li><a href="https://www.w3.org/TR/html52/">HTML</a></li>
-    <li><a href="https://www.w3.org/Style/CSS/">CSS</a></li>
-    <li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a></li>
+    <li><a href="https://www.odoo.com/">ODOO</li>
   </ul>
 </details>
 
 <details>
   <summary>Server Side</summary>
   <ul>
-    <li><a href="https://www.python.org/">Python</a></li>
+    <li><a href="https://www.odoo.com/">ODOO</a></li>
   </ul>
 </details>
 

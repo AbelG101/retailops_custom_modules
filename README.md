@@ -29,11 +29,11 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [supermarket management system] <a name="about-project"></a>
+# 📖 supermarket management system <a name="about-project"></a>
 
 > Our project, the Supermarket Management System, aims to revolutionize supermarket operations by optimizing inventory control, enhancing sales performance, and improving the overall shopping experience. Designed for enterprise-level usage, it integrates inventory management, sales tracking, purchasing, and customer service functions across multiple departments to streamline operations and boost customer satisfaction.
 
-**[Supermarket Management System]** is designed to revolutionize supermarket operations by offering a comprehensive solution for managing inventory, tracking sales, handling purchasing processes, and enhancing customer service. Leveraging the powerful capabilities of Odoo 17, we ensure seamless integration across multiple departments, tailored for enterprise-level usage. This integration enhances efficiency and effectiveness, providing a unified platform for all supermarket operations.
+**Supermarket Management System** is designed to revolutionize supermarket operations by offering a comprehensive solution for managing inventory, tracking sales, handling purchasing processes, and enhancing customer service. Leveraging the powerful capabilities of Odoo 17, we ensure seamless integration across multiple departments, tailored for enterprise-level usage. This integration enhances efficiency and effectiveness, providing a unified platform for all supermarket operations.
 ## Project Scope:
 - The supermarket management system we are proposing aims to streamline operations and manage various aspects of a supermarket, including:
   1. Inventory management
@@ -80,10 +80,10 @@
 
 > key features of the application.
 
-- **Inventory Management:Efficiently track and manage inventory levels to prevent stockouts and overstocking.**
-- **Sales Tracking:Monitor sales performance in real-time to make informed business decisions.**
-- **Purchasing:Streamline the purchasing process to ensure timely restocking of products.**
-- **Customer Service:Enhance customer satisfaction through improved service and support.**
+- **Inventory Management:** Efficiently track and manage inventory levels to prevent stockouts and overstocking.
+- **Sales Tracking:**Monitor sales performance in real-time to make informed business decisions.
+- **Purchasing:** Streamline the purchasing process to ensure timely restocking of products.
+- **Customer Service:** Enhance customer satisfaction through improved service and support.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

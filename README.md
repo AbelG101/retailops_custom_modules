@@ -81,7 +81,7 @@
 > key features of the application.
 
 - **Inventory Management:** Efficiently track and manage inventory levels to prevent stockouts and overstocking.
-- **Sales Tracking:**Monitor sales performance in real-time to make informed business decisions.
+- **Sales Tracking:** Monitor sales performance in real-time to make informed business decisions.
 - **Purchasing:** Streamline the purchasing process to ensure timely restocking of products.
 - **Customer Service:** Enhance customer satisfaction through improved service and support.
 

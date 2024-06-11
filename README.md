@@ -30,7 +30,7 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 supermarket management system <a name="about-project"></a>
-Supermarket management system in the retail industry using Odoo 17, our system offers a seamless integration approach that maximizes efficincy and productivity. With Odoo serving as both the server-side and client-side solution. In addition to Odoo's modules, we have further enhanced our suystem with custom modules tailored to meet the specific needs of supermarket operations. These include Email Integration for efficent communication, Branch Transfer Management for streamlined logistics, Shelf Space Management for optimal product placement, and Employee Shift Scheduling for effective workforce management.
+Supermarket management system in the retail industry using Odoo 17, our system offers a seamless integration approach that maximizes efficiency and productivity. With Odoo serving as both the server-side and client-side solution. In addition to Odoo's modules, we have further enhanced our suystem with custom modules tailored to meet the specific needs of supermarket operations. These include Email Integration for efficent communication, Branch Transfer Management for streamlined logistics, Shelf Space Management for optimal product placement, and Employee Shift Scheduling for effective workforce management.
 
 ## Project Scope:
 - The supermarket management system we are proposing aims to streamline operations and manage various aspects of a supermarket, including:
